@@ -1,3 +1,4 @@
+[![Build Status](https://www.travis-ci.org/drougge/gzutil.svg?branch=master)](https://www.travis-ci.org/drougge/gzutil)
 
 Helper library used by the [Accelerator](https://github.com/eBay/accelerator).
 
